@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 27 20:35:16 ART 2022
+jjwt-0.9.1.pom>=
+jjwt-0.9.1.jar>central=
+jjwt-0.9.1.pom>central=
+jjwt-0.9.1-sources.jar>central=

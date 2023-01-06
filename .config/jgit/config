@@ -1,0 +1,15 @@
+[filesystem "Oracle Corporation|18.0.2.1|-661177558"]
+	timestampResolution = 1008 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "OpenLogic-OpenJDK|1.8.0_342-342|-661177558"]
+	timestampResolution = 16001 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Eclipse Adoptium|17.0.4.1|-2103821935"]
+	timestampResolution = 1008 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Eclipse Adoptium|17.0.4.1|-661177558"]
+	timestampResolution = 1005 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "OpenLogic-OpenJDK|1.8.0_342-342|-2103821935"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds

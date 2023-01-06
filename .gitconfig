@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\ramon\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	email = ramonserrano76@gmail.com
+	name = Ramon Serrano
+[credential "https://git.heroku.com"]
+	provider = generic

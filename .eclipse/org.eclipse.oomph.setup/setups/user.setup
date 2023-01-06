@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setup:User
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:setup="http://www.eclipse.org/oomph/setup/1.0"
+    name="ramon">
+  <acceptedLicense>DEFAULT_LICENSE Marker to remember license pre-prompting</acceptedLicense>
+  <acceptedLicense>be4a7d94b4e1903e628a3001859739a8 Eclipse Foundation Software User Agreement</acceptedLicense>
+</setup:User>

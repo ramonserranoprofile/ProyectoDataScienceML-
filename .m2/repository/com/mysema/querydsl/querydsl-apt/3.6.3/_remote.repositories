@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 25 16:29:09 ART 2022
+querydsl-apt-3.6.3.jar>central=
+querydsl-apt-3.6.3.pom>central=
+querydsl-apt-3.6.3-sources.jar>central=

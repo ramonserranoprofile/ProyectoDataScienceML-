@@ -1,0 +1,1 @@
+C:\Program Files\OpenJDK\jdk-8.0.342.07-hotspot;1;8;0;64;true;1658839656000;x86_64

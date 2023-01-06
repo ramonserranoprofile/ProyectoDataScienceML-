@@ -1,0 +1,39 @@
+{
+	"analytics-uuid": "c569133c-93f7-4d47-a674-aa2b50b4b70d",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1672848410887
+	},
+	"usage": false,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "108598990966974507663",
+		"email": "ramonserrano76@gmail.com",
+		"email_verified": true,
+		"at_hash": "V0n8fGwljuGjt6O1yc--fQ",
+		"iat": 1654558736,
+		"exp": 1654562336
+	},
+	"tokens": {
+		"expires_at": 1672858081083,
+		"refresh_token": "1//0h-5-klsewdQfCgYIARAAGBESNwF-L9IryNUTG3L_R7-SaCH4RpS935NB4k6cc3NceO5qZw0U6RMFPWAIQw-JI-Q67ZicR3tZLt0",
+		"scopes": [],
+		"access_token": "ya29.a0AX9GBdUm-VV2jsag1wsTNe82Hf9IphyCqPoXvcwHEA83naXPT1MTBjw1Q0JhSngGY1GCXR5iVlWCW9VZ56RUpaPGeI6zknps6EYg8kHJs4jkNuGST3PU01sgWojA01H4IEwgsSYxlqlGlw-z35vgkoyrzZ3d6vmX4FmmfEMaCgYKAXgSAQASFQHUCsbCviNf4jIyeOjrvsu_5hVhmg0174",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjhlMGFjZjg5MWUwOTAwOTFlZjFhNWU3ZTY0YmFiMjgwZmQxNDQ3ZmEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA4NTk4OTkwOTY2OTc0NTA3NjYzIiwiZW1haWwiOiJyYW1vbnNlcnJhbm83NkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InFkblhLdEpjSFVVWW52NWVIZDFnb1EiLCJpYXQiOjE2NzI4NTQ0ODIsImV4cCI6MTY3Mjg1ODA4Mn0.POhpx0tsVy1vV09ewnqQT-ANZUgyfsPN797ya-88E3oI8u4mLMbRs83Ha8SNQxkOdeY6ifU4XPggbfJVHU4YBXRpxsQJyOn4ma17h93HPuIQOzRvbIa-YYG9bCsBH4oVQmEH0sufXl6NriktTAm9ZOrfG80upoJrf2-UdNsaWk5HkY69XLFaVJjbmP3LXj514WMevfbZy17RZWH-faLJck7yYkeV5YhvxaPHRdI6dVjB0tj-eSlIAmyeZNcrSI0nWJjaWUmc4YpC0Lv3hqvPwJwJY0cEFCGto55eb2LHEddW3Bh8H-RX5aOHXDuqIqLbgSGLSN6gHH_mr6bXydJ2eg"
+	},
+	"activeProjects": {
+		"C:\\Users\\ramon\\OneDrive\\Documentos\\ProyetoCODOACODO": "ramonserrano-portfolio",
+		"C:\\Users\\ramon\\OneDrive\\Documentos\\Repositorio Local\\myfistrepo\\myportfolio\\Frontend": "ramonserrano-portfolio"
+	}
+}
